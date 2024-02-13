@@ -1,0 +1,2 @@
+# NickSystem
+Spigot nick system
