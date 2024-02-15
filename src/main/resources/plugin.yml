@@ -1,0 +1,11 @@
+name: NickSystem
+version: 1.0
+api-version: 1.20
+author: Delta203
+
+main: de.nicksystem.delta203.spigot.NickSystem
+
+commands:
+  nick:
+    description: Setzte dir einen auto nick
+    permission: nick.nick
